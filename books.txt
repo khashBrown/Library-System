@@ -1,0 +1,20 @@
+B001,Java Programming,James Gosling,Programming,Ali,10-01-2025,using
+B002,Java Programming,James Gosling,Programming,Siti,11-01-2025,using
+B003,Java Programming,James Gosling,Programming,Ahmad,12-01-2025,using
+B004,Java Programming,James Gosling,Programming,Zara,13-01-2025,waiting
+B005,Database Systems,Elmasri,Computer Science,Hakim,18-01-2025,using
+B006,Database Systems,Elmasri,Computer Science,Fatin,19-01-2025,using
+B007,Database Systems,Elmasri,Computer Science,Danish,20-01-2025,using
+B008,Database Systems,Elmasri,Computer Science,Nur,21-01-2025,waiting
+B009,Artificial Intelligence,Stuart Russell,Data & AI,Amira,28-01-2025,using
+B010,Artificial Intelligence,Stuart Russell,Data & AI,Haziq,29-01-2025,using
+B011,Artificial Intelligence,Stuart Russell,Data & AI,Aisyah,30-01-2025,using
+B012,Artificial Intelligence,Stuart Russell,Data & AI,Danish,31-01-2025,waiting
+B013,Cloud Computing,Rajkumar Buyya,Technology,Imran,12-02-2025,using
+B014,Cloud Computing,Rajkumar Buyya,Technology,Sarah,13-02-2025,using
+B015,Internet of Things,Samuel Greengard,Technology,Irfan,20-02-2025,using
+B016,Game Development,Jesse Schell,Design & Creative,Alia,22-02-2025,using
+B017,Game Development,Jesse Schell,Design & Creative,Faiz,23-02-2025,using
+B018,Game Development,Jesse Schell,Design & Creative,Nabila,24-02-2025,using
+B019,Game Development,Jesse Schell,Design & Creative,Daniel,25-02-2025,waiting
+B020,Python Basics,Guido van Rossum,Programming,Aiman,15-01-2025,returned
